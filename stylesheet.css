@@ -1,0 +1,69 @@
+body{
+    margin:0 ;
+    background-color: beige;
+}
+.header{
+    color: black;
+    font-family: fantasy;
+    padding-left: 100px;
+}
+.name{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.My_skills{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:tomato;
+}
+hr{
+    margin-top: 5px;
+    width: 90%;
+}
+.dec{
+    text-align: center;
+}
+.insta-link:hover{
+    color: fuchsia;
+}
+.twitter-link:hover{
+    color: darkturquoise;
+}
+.aboutbramhi{
+    font-family:cursive;
+}
+.socialmedia{
+    padding-left: 100px;
+}
+.info_bar{
+    word-spacing: 200px;
+    padding-left: 100px;
+    padding-right: 521px;
+    color: aliceblue;
+}
+.socialaccounts{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.skills{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 100px;
+}
+.founderimage{
+    margin-right: 15px;
+    float: left;
+    padding-left: 100px;
+}
+.home:hover{
+    color:cornsilk;
+}
+.about:hover{
+    color:cornsilk;
+}
+.contactme:hover{
+    color:cornsilk;
+}
+.products:hover{
+    color:cornsilk;
+}
+
